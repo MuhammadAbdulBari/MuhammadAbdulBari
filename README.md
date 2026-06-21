@@ -28,7 +28,10 @@ React, TypeScript, Node.js, Laravel, ASP.NET, Flutter, MongoDB, SQL, Tailwind CS
 I'm currently open to projects and hiring. If you've got something worth building, reach out.
 
 Email: nizamabdulbari13@gmail.com
+
 Location: Karachi, Pakistan
+
 Portfolio: https://abdulbari-dev.vercel.app/
+
 Linkedin: www.linkedin.com/in/abdulbari-dev
 
