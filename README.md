@@ -25,6 +25,7 @@ INTP by nature, so I spend a lot of time taking problems apart to understand how
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
 
@@ -53,18 +54,18 @@ INTP by nature, so I spend a lot of time taking problems apart to understand how
 
 | Project | Type | Stack |
 |---|---|---|
-| **Orrento App** | Client | Flutter, ASP.NET |
-| **Ondule Store** | Personal | Shopify, AR |
-| **Eventure** | Client | ASP.NET MVC |
-| **Courier Management System** | Client | PHP, MySQL |
+| **Orrento App** | Personal | Flutter, ASP.NET |
+| **Ondule Store** | Client | Shopify, AR |
+| **Eventure** | Personal | ASP.NET MVC |
+| **Courier Management System** | Personal | PHP, MySQL |
 | **DecorVista** | Personal | ASP.NET, MySQL |
-| **SecureMob** | Personal | Flutter, Dart |
-| **LeadMiner** | Client | React, Node.js |
-| **Hospital POS System** | Personal | React.js, PHP |
+| **SecureMob** | Client | Flutter, Dart |
+| **LeadMiner** | Personal | React, Node.js |
+| **Hospital POS System** | Client | React.js, PHP |
 
 ---
 
-## 📬 Get in touch
+## Get in touch
 
 I'm currently open to projects and hiring. If you've got something worth building, reach out.
 
