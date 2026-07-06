@@ -1,12 +1,4 @@
-# Hi, I'm Abdul Bari
-
-Software engineering student and developer based in Karachi, Pakistan. I build web and mobile applications — and I care more about whether something actually works well than whether it just looks good on a landing page.
-
-INTP by nature, so I spend a lot of time taking problems apart to understand how they actually work, then building systems around that understanding. Most of what I do lives somewhere between web development, mobile apps, and backend engineering.
-
----
-
-## 🛠️ Tech Stack<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdul%20Bari&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
@@ -38,7 +30,7 @@ INTP by nature, so I spend a lot of time taking problems apart to understand how
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a software engineering student and developer based in **Karachi, Pakistan**, building web and mobile applications. I care more about whether something *actually works* than whether it just looks good on a landing page.
 
@@ -50,13 +42,13 @@ Approach:     Understand the system deeply, then build around it
 Currently:    Open to freelance projects and full-time roles
 ```
 
-**🟣 Open To:** Freelance projects · Internships · Full-time Software Engineering roles
+**Open To:** Freelance projects · Internships · Full-time Software Engineering roles
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -82,7 +74,7 @@ Currently:    Open to freelance projects and full-time roles
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>Orrento App</b> — Personal</summary>
@@ -184,44 +176,7 @@ Point-of-sale system for hospital operations, built with React.js and PHP.
 
 ---
 
-## 🏆 Certifications
-<!-- Add your real certifications below, grouped by provider. Remove any provider you don't have certs from. -->
-
-**AWS**
-
-<!-- <img src="https://img.shields.io/badge/AWS_Certification_Name-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
-
-**Oracle**
-
-<!-- <img src="https://img.shields.io/badge/Oracle_Certification_Name-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> -->
-
-**NPTEL**
-
-<!-- <img src="https://img.shields.io/badge/NPTEL_Course_Name-7C3AED?style=for-the-badge"/> -->
-
-**Cisco**
-
-<!-- <img src="https://img.shields.io/badge/Cisco_Certification_Name-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> -->
-
-<br/>
-
----
-
-## 💻 Coding Profiles
-<!-- Add the profiles you actually use, e.g.: -->
-
-<!--
-<a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-handle"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/your-handle"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/your-handle"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
--->
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -236,7 +191,7 @@ Point-of-sale system for hospital operations, built with React.js and PHP.
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAbdulBari&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10"/>
@@ -246,7 +201,7 @@ Point-of-sale system for hospital operations, built with React.js and PHP.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdulBari&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9&hide_border=true"/>
@@ -256,19 +211,7 @@ Point-of-sale system for hospital operations, built with React.js and PHP.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/MuhammadAbdulBari/MuhammadAbdulBari/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-> Generated via the [platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to activate it.
-
-<br/>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:    Advanced patterns in Flutter & ASP.NET Core
@@ -281,7 +224,7 @@ Open To:     Freelance projects, internships, and full-time opportunities
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
@@ -303,70 +246,3 @@ Open To:     Freelance projects, internships, and full-time opportunities
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## What I work on
-
-- **Web** — responsive applications with React, Node.js, and Laravel
-- **Mobile** — Flutter apps handling things like secure payments and real-time tracking
-- **Backend** — APIs and database systems with Node.js, ASP.NET Core, Laravel, SQL, and MongoDB
-- **UI/UX integration** — taking a design and coding it so it feels right, not just looks right
-- **E-commerce** — custom storefronts including Shopify-based stores
-
----
-
-## Some things I've built
-
-| Project | Type | Stack |
-|---|---|---|
-| **Orrento App** | Personal | Flutter, ASP.NET |
-| **Ondule Store** | Client | Shopify, AR |
-| **Eventure** | Personal | ASP.NET MVC |
-| **Courier Management System** | Personal | PHP, MySQL |
-| **DecorVista** | Personal | ASP.NET, MySQL |
-| **SecureMob** | Client | Flutter, Dart |
-| **LeadMiner** | Personal | React, Node.js |
-| **Hospital POS System** | Client | React.js, PHP |
-
----
-
-## Get in touch
-
-I'm currently open to projects and hiring. If you've got something worth building, reach out.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulbari--dev.vercel.app-black?style=for-the-badge&logo=vercel)](https://abdulbari-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulbari--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbari-dev)
-[![Email](https://img.shields.io/badge/Email-nizamabdulbari13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nizamabdulbari13@gmail.com)
-
-📍 Karachi, Pakistan
